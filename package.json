@@ -9,6 +9,9 @@
     "build": "ng-build",
     "heroku-postbuild": "ng build --prod"
   },
+  "engines": {
+    "node": "v14.16.1"
+  },
   "author": "",
   "license": "ISC"
 }
